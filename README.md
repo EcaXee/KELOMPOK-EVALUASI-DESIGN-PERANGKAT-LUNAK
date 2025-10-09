@@ -1,6 +1,8 @@
 # KELOMPOK-EVALUASI-DESIGN-PERANGKAT-LUNAK
 
+<pre>
 Anggota Kelompok :  
-&emsp;&emsp;&emsp;&emsp;AHMAD DENI ILHAMDI&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;:2301040003  
-&emsp;&emsp;&emsp;&emsp;ANDI ERSYAH EKA RAMDHANI&emsp;&emsp;&emsp;&emsp;:2301040030  
-&emsp;&emsp;&emsp;&emsp;MAHATIR MUHAMMAD&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;:2301040008  
+      AHMAD DENI ILHAMDI         :2301040003  
+      ANDI ERSYAH EKA RAMDHANI   :2301040030  
+      MAHATIR MUHAMMAD           :2301040008  
+<pre>
